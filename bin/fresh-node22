@@ -6,7 +6,7 @@
 
 scriptversion='24.05.1'
 imagename=docker-registry.wikimedia.org/releng/node22-test-browser
-imageversion=22.0.0-s1
+imageversion=22.13.0
 shortname=fresh-node22
 mountsrc="$PWD"
 mountdest="/"$(basename "$PWD")
